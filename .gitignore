@@ -1,0 +1,8 @@
+**/*.out
+**/*.a
+**/*.d
+**/configure_files/
+**/_builds/
+hello
+caller
+**/*.log
